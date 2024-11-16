@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dell XPS 13",
+    "price": "99.99k",
+    "image": "https://www.cnet.com/a/img/resize/527f2ed600d9b3dedb29cab525a271d448b2ce54/hub/2022/10/11/977d58f4-79a1-4a37-ad24-1f5c9bdfdf91/dell-xps-13-2022-d.jpg?auto=webp&fit=crop&height=362&width=644",
+    "description": "Ultra-slim, high-performance laptop with 13.4-inch Infinity Edge display.",
+    "specification": ["Intel i7 11th Gen", "16GB RAM", "512GB SSD", "Touchscreen"],
+    "rating": 4.8,
+    "stock": "In Stock"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": "$999.99",
+    "image": "https://rajshahitech.com/wp-content/uploads/2023/11/samsung-galaxy-s23-ultra-phantom-black-8_1-1.jpg",
+    "description": "Powerful smartphone with cutting-edge camera technology.",
+    "specification": ["Snapdragon 8 Gen 2", "12GB RAM", "256GB Storage", "5G Support"],
+    "rating": 4.9,
+    "stock": "In Stock"
+  },
+  {
+    "id": 3,
+    "name": "Apple MacBook Pro 14",
+    "price": "$1,999.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwPS1Pu27ofWJcxOWAweLz00YYszYOtwgug&s",
+    "description": "Apple M1 Pro chip, 14-inch Retina display, and long-lasting battery.",
+    "specification": ["Apple M1 Pro", "16GB RAM", "512GB SSD", "Retina Display"],
+    "rating": 4.7,
+    "stock": "In Stock"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "price": "$349.99",
+    "image": "https://m2.me-retail.com/cdn-cgi/image/w=250,q=75,f=auto/pub/media/catalog/product/w/h/wh-1000xm5b-7.png",
+    "description": "Industry-leading noise-canceling headphones with up to 30 hours of battery life.",
+    "specification": ["Noise Canceling", "30h Battery", "Bluetooth 5.2", "Hi-Res Audio"],
+    "rating": 4.8,
+    "stock": "In Stock"
+  },
+  {
+    "id": 5,
+    "name": "HP Spectre x360",
+    "price": "$1,299.99",
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08279305.png?impolicy=Png_Res",
+    "description": "2-in-1 convertible laptop with a sleek design and powerful performance.",
+    "specification": ["Intel i7 12th Gen", "16GB RAM", "512GB SSD", "13.3\" FHD Touch"],
+    "rating": 4.6,
+    "stock": "Out of Stock"
+  },
+  {
+    "id": 6,
+    "name": "Apple iPad Pro 11",
+    "price": "$799.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zj3-sm3Jrm_LPeypK-0a3_Paqj150qFjYg&s",
+    "description": "Powerful iPad with Apple M1 chip, 11-inch Liquid Retina display.",
+    "specification": ["Apple M1", "128GB Storage", "11\" Retina Display", "Face ID"],
+    "rating": 4.9,
+    "stock": "In Stock"
+  },
+  {
+    "id": 7,
+    "name": "Google Pixel 7 Pro",
+    "price": "$899.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbWdPzTS71HNppVD32V0CKXzOlN7JT2g6ZbA&s",
+    "description": "High-performance smartphone with advanced camera and Google Tensor chip.",
+    "specification": ["Google Tensor", "12GB RAM", "128GB Storage", "5G Enabled"],
+    "rating": 4.7,
+    "stock": "In Stock"
+  },
+  {
+    "id": 8,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": "$1,599.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8pMIU9KOoi8F81F5RiAh-U0kJnp0aIZfRw&s",
+    "description": "Lightweight business laptop with robust build and long battery life.",
+    "specification": ["Intel i7 12th Gen", "16GB RAM", "512GB SSD", "14\" FHD"],
+    "rating": 4.6,
+    "stock": "In Stock"
+  },
+  {
+    "id": 9,
+    "name": "Bose QuietComfort Earbuds",
+    "price": "$279.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpZfqe0F34n2mD0OKKt7rbH3_LR6Snji5Rg&s",
+    "description": "Noise-canceling true wireless earbuds with excellent sound quality.",
+    "specification": ["Noise Canceling", "6h Battery", "Bluetooth 5.1", "Water Resistant"],
+    "rating": 4.5,
+    "stock": "Out of Stock"
+  },
+  {
+    "id": 10,
+    "name": "Asus ROG Zephyrus G14",
+    "price": "$1,499.99",
+    "image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Zephyrus-G14-4-3.jpg",
+    "description": "High-performance gaming laptop with AMD Ryzen 9 processor.",
+    "specification": ["AMD Ryzen 9", "16GB RAM", "1TB SSD", "14\" QHD Display"],
+    "rating": 4.8,
+    "stock": "In Stock"
+  },
+  {
+    "id": 11,
+    "name": "Canon EOS R5",
+    "price": "$3,899.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVZUUruRpsrMPPedOS8si16F4wuE2lR5SpA&s",
+    "description": "Full-frame mirrorless camera with 45MP sensor and 8K video recording.",
+    "specification": ["45MP Sensor", "8K Video", "Dual Pixel AF", "Weather-Sealed"],
+    "rating": 4.9,
+    "stock": "In Stock"
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy Tab S8",
+    "price": "$699.99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5HZBkKqN06y9nwpwQTvPkvIrq4JUw20b7w&s",
+    "description": "High-performance tablet with S Pen support and 11-inch display.",
+    "specification": ["Snapdragon 8 Gen 1", "8GB RAM", "128GB Storage", "S Pen Support"],
+    "rating": 4.7,
+    "stock": "In Stock"
+  }
+]
